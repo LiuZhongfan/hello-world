@@ -1,4 +1,4 @@
 # hello-world
 first test
 
-就用中文吧，虽然有点low...
+这是程序文件不能用中文编程吧
